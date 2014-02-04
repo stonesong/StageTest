@@ -1,11 +1,11 @@
 package test;
 
-public class Toto {
+public class pepe {
 	
 	static String s = "";
 	
-	public Toto(){
-		s += "toto";
+	public pepe(){
+		s += "pepe";
 	}
 	
 	public String getS(){

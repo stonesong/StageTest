@@ -3,7 +3,7 @@ package test;
 public class Main {
 
 	public static void main(String args[]){
-		Toto t = new Toto();
+		pepe t = new pepe();
 		System.out.println(t.getS());
 	}
 }
