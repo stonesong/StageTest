@@ -1,4 +1,4 @@
-package bob;
+package test;
 
 public class henry4 {
 
