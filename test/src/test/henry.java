@@ -2,7 +2,15 @@ package test;
 
 public class henry {
 
+	public String getS(){
 
+		d+=" haha";
+
+
+
+		return d;
+
+	}
 	public class dudu {
 
 
@@ -16,15 +24,7 @@ public class henry {
 
 
 		}
-	public String getS(){
 
-		d+=" haha";
-
-
-
-		return d;
-
-	}
 
 
 	}
