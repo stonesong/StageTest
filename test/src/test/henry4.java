@@ -1,16 +1,8 @@
 package test;
 
-public class henry {
-
-	public String getS(){
-
-		d+=" haha";
+public class henry4 {
 
 
-
-		return d;
-
-	}
 	public class dudu {
 
 
@@ -25,7 +17,15 @@ public class henry {
 
 		}
 
+		public String getS(){
 
+			d+=" haha";
+
+
+
+			return d;
+
+		}
 
 	}
 }
