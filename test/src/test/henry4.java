@@ -17,15 +17,7 @@ public class henry4 {
 
 		}
 
-		public String getS(){
-
-			d+=" haha";
-
-
-
-			return d;
-
-		}
+		
 
 	}
 }
